@@ -4,6 +4,7 @@
     "main": "index.js",
     "license": "MIT",
     "dependencies": {
+        "amqp-connection-manager": "^4.1.14",
         "amqplib": "^0.5.6"
     }
 }
